@@ -1,4 +1,4 @@
-# Reaxt Youtube Clone App
+# React Youtube Clone App
 
 
 
